@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swervolee
-- 👀 I’m interested in Software Enfineering
-- 🌱 I’m currently learning Alx Holberton school
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning at Alx  Holberton school
 - 💞️ I’m looking to collaborate on simple projects
 - 📫 How to reach me:
 williamkubai101@gmail.com - email
