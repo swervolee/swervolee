@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swervolee
+- 👋 Hi, I’m **@swervolee**
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning at Alx  Holberton school
 - 📫 How to reach me:
