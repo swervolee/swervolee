@@ -1,6 +1,14 @@
 <img                               src="https://github.com/swervolee/main/blob/main/1694057779763.jpeg" />
 
-My Name is William. I am a software engineer with interest in solving real-world problems with technology and dependable leadership. An avid weriter exploring information technology advancements and personal development through books. Writes technical articles in Hashnode.
+I am William Kubai, a software engineering student with a passion for learning and building things. I am currently studying at ALX Holberton School, but I am also interested in a variety of other topics, including:
+
+    Machine learning
+    Artificial intelligence
+    Robotics
+    Data science
+    Entrepreneurship
+
+I am always looking for new challenges and opportunities to learn and grow. I am also a strong advocate for diversity and inclusion in the tech industry.
 <br/>
 
 <div align="center">
