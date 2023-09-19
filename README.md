@@ -1,4 +1,4 @@
-<img src="https://github.com/swervolee/main/blob/main/1694057779763.jpeg" />
+                                <img src="https://github.com/swervolee/main/blob/main/1694057779763.jpeg" />
 
 My Name is William. I am a software engineer with interest in solving real-world problems with technology and dependable leadership. An avid weriter exploring information technology advancements and personal development through books. Writes technical articles in Hashnode.
 <br/>
