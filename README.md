@@ -26,6 +26,7 @@ src="https://img.shields.io/twitter/follow/williamkubai2?logo=twitter&style=for-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=swervolee)](https://git.io/streak-stats)
 
 ### Badges
 
