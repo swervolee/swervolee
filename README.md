@@ -1,4 +1,4 @@
-Hi 👋 My name is William Kubai
+My name is William Kubai
 ===============================
 
 software engineering student
