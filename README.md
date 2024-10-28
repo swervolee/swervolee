@@ -1,33 +1,21 @@
-# 🌟 Hello, I'm William Kubai
+# 👋 Hello, I'm William Kubai
 
-### 👨‍💻 Software Engineering Student
+## 🎓 Software Engineering Student
 
-I'm a dedicated software engineering student at **Alx Africa**. My journey includes mastering multiple programming languages such as **C**, **Python**, **SQL**, **JavaScript**, **HTML**, and **CSS**. My passion lies in building innovative applications and crafting solutions that tackle real-world challenges.
+I am a software engineering student at ALX Africa, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. My goal is to build a solid foundation in these languages and develop my skills in software development. I focus on writing code, designing and implementing algorithms, and creating applications and software systems. Ultimately, I aim to become a proficient software engineer capable of developing innovative solutions to complex problems.
 
-I believe in continuous learning, and my studies encompass not only writing clean code but also designing effective algorithms and implementing software systems. As I progress, I aim to become a skilled engineer who can contribute meaningfully to the tech community.
-
----
+### 🌟 Codewars Profile
+![Codewars Badge](https://www.codewars.com/users/swervolee/badges/large)
 
 ### 🌐 Connect with Me
+<a href="https://www.github.com/swervolee" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/swervolee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+<a href="https://www.twitter.com/williamkubai2" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/williamkubai2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
-<div>
-    <a href="https://www.github.com/swervolee" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/github/followers/swervolee?logo=github&style=for-the-badge&color=FF5A5F&labelColor=FFFFFF" alt="GitHub Followers" />
-    </a>
-    <a href="https://www.twitter.com/williamkubai2" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/twitter/follow/williamkubai2?logo=twitter&style=for-the-badge&color=FF5A5F&labelColor=FFFFFF" alt="Twitter Followers" />
-    </a>
-    <a href="https://www.linkedin.com/in/williamkubai" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-    </a>
-</div>
-
----
-
-### 🛠️ Technical Skills
-
-I'm proficient in a variety of programming languages and technologies:
-
+### 🛠️ Skills
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
@@ -58,55 +46,21 @@ I'm proficient in a variety of programming languages and technologies:
     </a>
 </p>
 
----
+### 🏆 Badges
+**My GitHub Stats**
 
-### 📈 My GitHub Stats
+<a href="http://www.github.com/swervolee">
+    <img src="https://github-readme-stats.vercel.app/api?username=swervolee&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="swervolee's GitHub stats" />
+</a>
 
-Here’s a glimpse into my GitHub activity:
+<a href="http://www.github.com/swervolee">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swervolee&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
-<div>
-    <a href="http://www.github.com/swervolee">
-        <img src="https://github-readme-stats.vercel.app/api?username=swervolee&show_icons=true&hide=&count_private=true&title_color=FF5A5F&text_color=000000&icon_color=FF5A5F&bg_color=FFFFFF&hide_border=true" alt="swervolee's GitHub stats" />
-    </a>
-    <a href="http://www.github.com/swervolee">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=swervolee&stroke=FF5A5F&background=FFFFFF&ring=FF5A5F&fire=FF5A5F&currStreakNum=000000&currStreakLabel=FF5A5F&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" alt="GitHub Streak Stats" />
-    </a>
-</div>
+<a href="http://www.github.com/swervolee">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=swervolee&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
 
-<div>
-    <a href="http://www.github.com/swervolee">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=swervolee&bg_color=FFFFFF&color=000000&line=FF5A5F&point=FF5A5F&area_color=FFEBEB&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-    </a>
-    <a href="https://github.com/swervolee" align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swervolee&langs_count=10&title_color=FF5A5F&text_color=000000&icon_color=FF5A5F&bg_color=FFFFFF&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-    </a>
-</div>
-
----
-
-### ✉️ Let’s Collaborate!
-
-I am always eager to collaborate, learn, and grow with fellow developers. Feel free to reach out through my social links or directly on GitHub!
-
----
-
-### 📖 Projects & Contributions
-
-Check out some of my projects and contributions on [GitHub](https://github.com/swervolee) to see what I've been working on recently.
-
----
-
-### 🌱 Currently Learning
-
-I’m currently focusing on:
-
-- Advanced Python Concepts
-- Full-Stack Development
-- Cloud Technologies (AWS, Azure)
-
----
-
-### 💡 Fun Fact
-
-Did you know? The first computer programmer was Ada Lovelace, who created an algorithm for Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.
-
+<a href="https://github.com/swervolee" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swervolee&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
