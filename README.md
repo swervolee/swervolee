@@ -1,3 +1,4 @@
+<img src="https://www.figma.com/design/X7x7hazBRTgJcygWMPJKHs/Banner-(Community)?node-id=0-1&t=hSJff3zHykhOAFlc-1">
 # 🌌 Hey there, I'm William Kubai!
 
 ### 👨‍💻 Full-Stack Developer | Problem Solver | Lifelong Learner
